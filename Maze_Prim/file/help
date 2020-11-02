@@ -1,0 +1,9 @@
+Ứng dụng Java này được thiết kế để tạo ra một mê cung theo cách thủ công bằng cách sử dụng ngẫu nhiên thuật toán của Prim và giải quyết mê cung bằng quy tắc bàn tay trái.
+-Đầu tiên để tạo một mê cung bấm chọn "Generate Maze"
+-Bấm chọn "Solve Maze" để giải quyết mê cung, GUI làm nổi bật ô bắt đầu bằng màu xanh lam và ô kết thúc có màu xanh lục . Trong khi mê cung đang được tính toán, ô hiện tại đang được kiểm tra được tô sáng màu tím .
+-"Loop" để thực hiện lặp lại liên tục.
+-"Reset" giúp  reset lại toàn bộ ưd
+-Người dùng cũng có thể kiểm soát độ rộng của các ô bằng cách chọn tăng giảm ở "Cell Width" 
+và trong các lần triển khai trong tương lai sẽ có thể chọn các thuật toán tạo và giải khác nhau.
+
+Tạo nhanh và giải quyết nhanh đều có thể được bật nếu người dùng không muốn xem thế hiện và các tính toán lần lượt.

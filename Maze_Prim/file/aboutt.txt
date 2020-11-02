@@ -1,0 +1,8 @@
+﻿Nhóm sv ( MIM-HUS):
+	Đinh Thị Thắm 18001201
+	Hoàng Thị Mai 18001160
+Chương trình ứng dụng thuật toán Prim(tìm cây con tối thiểu của đồ thị) tạo mê cung ngẫu nhiên  thực hiện trong project cuối kỳ của môn Cấu trúc dữ liệu và thuật toán(tháng 6/2020) 
+
+Mọi chi tiết thắc mắc góp ý xin gửi Email về địa chỉ: dinhtham18032000@gmail.com 
+
+Xin cảm sự quan tâm của các bạn! 
